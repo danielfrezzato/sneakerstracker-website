@@ -1,0 +1,31 @@
+.w-webflow-badge {
+    display: none !important
+}
+
+@media only screen and (max-width: 480px) {
+    .center-mobile {
+        text-align: center !important;
+    }
+}
+
+.easter{
+    background-color: transparent;
+    color: black;
+}
+
+.easter:hover{
+    background-color: #20A6FE;
+    color: white;
+    transition:.2s
+}
+
+#w-node-_55eeaba3-9b54-f591-debf-2f656f5641f6-95934b73{
+	height: 72% !important;
+}
+
+@media screen and (max-width: 960px) {
+     .video-yt{
+	margin-top: -180px !important;
+}
+}
+
